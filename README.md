@@ -14,7 +14,11 @@
 - 🔒 2020: Jackbox Editor - edit "Joke Boat" resources to give a broader range of prompts
 - 2016: [TownNameGen](https://github.com/laurence-myers/townnamegen) - a port of the OpenTTD town name generator to Haxe (targeting JS and Neko)
 
-### Old stuff
+## Misc
+
+- [My JSBench.me test suites](https://jsbench.me/user/lmyers), for comparing performance of common JS/TS idioms/approaches
+
+## Old stuff
 
 - [DRO Trimmer](https://www.laurencedougalmyers.net/apps/drotrimmer/) - edit DRO files (OPL2 / OPL3 chip music recorded through DOSBox)
 - [RobinPacker](https://www.laurencedougalmyers.net/apps/robinpacker/) - edit the game [The Adventures of Robin Hood (1991)](https://www.mobygames.com/game/2918/the-adventures-of-robin-hood/)
