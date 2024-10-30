@@ -2,7 +2,9 @@
 
 - 2014-2024 [MidiToMacro](https://github.com/laurence-myers/midi-to-macro) - AutoHotKey script to map MIDI messages to key macros
 - 🔒 2024: Disco Elysium unofficial patch - fixes lots of outstanding bugs in the game Disco Elysium
+- 2024: [PyOPL](https://github.com/Malvineous/pyopl) - OPL2/3 sound chip emulator for Python. Contributed porting to Python v3.8 (building on work by Adam Biser), CI builds, automated tests, and publishing to PyPI
 - 🔒 2023-2024: DRO Trimmer v5 - add a waveform view with mouse selection of trim points, add support for VGM files and projects
+- 2023: [SCI Companion](https://github.com/Kawa-oneechan/SCICompanion) - Sierra game editor. Contributed bug fixes and nightly CI builds (when there are changes to build)
 - 2020-2023: [Music To Check Out Organizer](https://laurence-myers.gitlab.io/music-tco/) - edit a Spotify playlist, grouping tracks by album, with bulk delete, and "move" to other playlists
 - 🔒 2023: GOG offline installer batch download tool
 - 2022: [FL Studio Plugin Organizer](https://github.com/laurence-myers/flspo) - organise FL Studio Plugins by "vendor"
