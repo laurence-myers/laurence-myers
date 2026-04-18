@@ -1,7 +1,7 @@
 ## Personal Projects
 
+- 2024-2026: [Furious Tare - the Disco Elysium unofficial patch](https://github.com/laurence-myers/FuriousTare) - fixes lots of outstanding bugs in the game [Disco Elysium](https://discoelysium.com/)
 - 2014-2024 [MidiToMacro](https://github.com/laurence-myers/midi-to-macro) - AutoHotKey script to map MIDI messages to key macros
-- 🔒 2024: Disco Elysium unofficial patch - fixes lots of outstanding bugs in the game Disco Elysium
 - 2024: [PyOPL](https://github.com/Malvineous/pyopl) - OPL2/3 sound chip emulator for Python. Contributed porting to Python v3.8 (building on work by Adam Biser), CI builds, automated tests, and publishing to PyPI
 - 🔒 2023-2024: DRO Trimmer v5 - add a waveform view with mouse selection of trim points, add support for VGM files and projects
 - 2023: [SCI Companion](https://github.com/Kawa-oneechan/SCICompanion) - Sierra game editor. Contributed bug fixes and nightly CI builds (when there are changes to build)
