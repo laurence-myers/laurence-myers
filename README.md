@@ -1,6 +1,6 @@
 ## AI Era Projects
 
-IN 2026, AI became good enough that I can boil the ocean to tackle those hobby projects I didn't have time (or skills) to work on.
+In 2026, AI became good enough that I can boil the ocean to tackle those hobby projects I didn't have time (or skills) to work on.
 
 - 2026: [SCI Companion v4](https://github.com/laurence-myers/SCICompanion) - lots of bug fixes; no more `asm` fallbacks, improved memory safety, properly handle invalid inputs, less crashes.
 - 🔒 2026: Hypercopy - a tiny shell extension to replace the Windows Explorer Copy/Move functionality, with support for queueing per destination device, SMB, file verification using xxHash3. Written in Rust, designed for instant start-up (approx 30 ms to first paint).
